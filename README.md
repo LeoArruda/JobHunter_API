@@ -5,3 +5,13 @@ Backend API for the JobHunter Website / App
 [![Build Status](https://travis-ci.org/LeoArruda/JobHunter_API.svg?branch=main)](https://travis-ci.org/LeoArruda/JobHunter_API)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b9285a2125a91b400948/maintainability)](https://codeclimate.com/github/LeoArruda/JobHunter_API/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b9285a2125a91b400948/test_coverage)](https://codeclimate.com/github/LeoArruda/JobHunter_API/test_coverage)
+
+
+## How to run the code
+1. clone the repository
+2. Open a terminal in the project root and run `yarn run`
+
+
+## How to test
+1. Run `yarn test`
+
